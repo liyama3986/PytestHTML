@@ -1,0 +1,4 @@
+pytest>=7.0.0
+selenium>=4.15.1
+webdriver-manager>=3.0.0
+pytest-html>=3.0.0
